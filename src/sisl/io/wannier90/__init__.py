@@ -15,4 +15,4 @@ tight-binding models from Wannier90 output from *any* DFT code.
 """
 from .sile import *  # isort: split
 from .seedname import *
-from .seedname_respack import *
+from .seedname_respack import geomSileWannier90
